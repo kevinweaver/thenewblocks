@@ -18,7 +18,7 @@ function Plexus() {
       options={{
         background: {
           color: {
-            value: "#0d47a1",
+            value: "#1C1718",
           },
         },
         fpsLimit: 60,
@@ -55,10 +55,10 @@ function Plexus() {
         },
         particles: {
           color: {
-            value: "#ffffff",
+            value: "#BB3A3A",
           },
           links: {
-            color: "#ffffff",
+            color: "#9E1D25",
             distance: 200,
             enable: true,
             opacity: 0.5,
@@ -80,7 +80,7 @@ function Plexus() {
               enable: true,
               value_area: 800,
             },
-            value: 40,
+            value: 50,
           },
           opacity: {
             value: 0.5,
